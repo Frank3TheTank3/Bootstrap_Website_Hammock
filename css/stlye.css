@@ -62,6 +62,12 @@ section{
     color: #11245A;
 }
 
+.logo-image{
+    width: 180px;
+    height: 60px;
+}
+
+
 .navbar .nav-link {
 
     font-size: 12px;
