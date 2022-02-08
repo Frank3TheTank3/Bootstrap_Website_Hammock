@@ -73,7 +73,10 @@ section{
     color: #11245A;
 }
 
-
+.logo-image {
+    width: 240px;
+    height: 75px;
+}
 
 .navbar .nav-link {
 
