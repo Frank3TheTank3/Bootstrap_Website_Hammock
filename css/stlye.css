@@ -40,7 +40,15 @@ font-size: 20px;
 }
 
 
+.displayimage{
 
+    height: 400px;
+}
+
+.displayimage{
+
+    height: 300px;
+}
 
 img{
 
@@ -128,10 +136,17 @@ text-transform: uppercase;
 
 .btn-brand{
 
-background-color: lightskyblue;
+background-color: rgb(57, 118, 156);
 color: seashell;
 
 }
+
+.btn-host{
+
+    background-color: rgb(177, 96, 20);
+    color: seashell;
+    
+    }
 
 .btn-brand:hover{
 background-color: tan;
@@ -200,7 +215,7 @@ transition: all 0.4s ease;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(1, 100, 22, 0.4);
+    background-color: rgba(65, 7, 7, 0.8);
     display: flex;
     align-items: flex-end;
     padding: 30px;
@@ -318,7 +333,42 @@ form .form-control:focus{
 
 #cta {
 
-    background-color: lightskyblue;
+    background-color: rgb(55, 123, 165);
+    font-size: larger;
+
+}
+
+#ctalu {
+
+    background-color: rgb(55, 123, 165);
+    font-size: larger;
+
+}
+
+#ctaingo {
+
+    background-color: rgb(55, 123, 165);
+    font-size: larger;
+
+}
+
+#ctatom {
+
+    background-color: rgb(55, 123, 165);
+    font-size: larger;
+
+}
+
+#ctachantal {
+
+    background-color: rgb(55, 123, 165);
+    font-size: larger;
+
+}
+
+#ctafrank {
+
+    background-color: rgb(55, 123, 165);
     font-size: larger;
 
 }
