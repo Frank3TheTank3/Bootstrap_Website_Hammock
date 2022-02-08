@@ -89,7 +89,7 @@ section{
 
 .navbar-light .navbar-nav .nav-link.active{
 
-    color:sandybrown;
+    color:lightskyblue;
 }
 
 #home{
@@ -128,7 +128,7 @@ text-transform: uppercase;
 
 .btn-brand{
 
-background-color: sandybrown;
+background-color: lightskyblue;
 color: seashell;
 
 }
@@ -150,7 +150,8 @@ color: white;
 
     width: 120px;
     height: 2px;
-    background-color: rgb(255, 196, 0);
+    background-color: lightskyblue;
+
     margin: 16px auto 0 auto;
 
 }
@@ -163,7 +164,8 @@ color: white;
 
     width: 60px;
     height: 60px;
-    background-color: rgb(15, 185, 228);
+    background-color: rgb(29, 144, 238);
+
     color: white;
     border-radius: 40px;
     display: flex;
@@ -219,10 +221,12 @@ transition: all 0.4s ease;
 
 
 }
-.destinations-item img{
 
-    height:  550px;
+.destination-item img{
+    height: 400px;
 }
+
+
 .destinations-item:hover img{
 
     transform: scale(1.1);
@@ -290,7 +294,7 @@ background-color: white;
 .host .host-image .social-icons a:hover{
 
 background-color: white;
-color: tomato;
+color: lightskyblue;
 transform: translateY(-6px);
 
 }
@@ -313,8 +317,10 @@ form .form-control:focus{
 }
 
 #cta {
-    background-color: rgb(15, 185, 228);
-    font-size: 18px;
+
+    background-color: lightskyblue;
+    font-size: larger;
+
 }
 
 .footer-top {
