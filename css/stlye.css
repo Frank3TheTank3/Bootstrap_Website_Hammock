@@ -18,6 +18,11 @@ color: #11245A;
 
 }
 
+.lowercase{
+
+    text-transform: lowercase;
+}
+
 .title-sm{
     font-size: 14px;
     letter-spacing: 1px;
