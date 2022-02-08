@@ -150,7 +150,7 @@ color: white;
 
     width: 120px;
     height: 2px;
-    background-color: rgb(255, 115, 0);
+    background-color: rgb(255, 196, 0);
     margin: 16px auto 0 auto;
 
 }
@@ -163,7 +163,7 @@ color: white;
 
     width: 60px;
     height: 60px;
-    background-color: rgb(255, 115, 0);
+    background-color: rgb(15, 185, 228);
     color: white;
     border-radius: 40px;
     display: flex;
@@ -219,7 +219,10 @@ transition: all 0.4s ease;
 
 
 }
+.destinations-item img{
 
+    height:  550px;
+}
 .destinations-item:hover img{
 
     transform: scale(1.1);
@@ -305,12 +308,13 @@ form .form-control{
 form .form-control:focus{
 
     box-shadow: none;
-    border-color: coral;
+    border-color: rgb(80, 220, 255);
 
 }
 
 #cta {
-    background-color: coral;
+    background-color: rgb(15, 185, 228);
+    font-size: 18px;
 }
 
 .footer-top {
